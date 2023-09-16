@@ -1,10 +1,6 @@
-- Hi, I’m @DNA-QS
-- I’m interested in game dev.&& Software dev;
-- I’m currently learning C++;
--  I’m looking to collaborate with anything related to C++;
--  Instagram:@qhobsec 
+𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 |venturing into 
+𝐟𝐫𝐨𝐧𝐭-𝐞𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭.
 
-<!---
-DNA-QS/DNA-QS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ I'm actively acquiring expertise in
+ 📄HTML|📘CSS | 📊JS.
+ |C++|->gamedev🎮.
