@@ -3,5 +3,5 @@
 
  I'm actively acquiring expertise
  in
- 📄HTML|📘CSS | 📊JS.
+ HTML|📘CSS | 📊JS.
  |C++|->gamedev🎮.
